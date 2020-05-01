@@ -1,3 +1,4 @@
 
 .ipynb_checkpoints/Python for finance-checkpoint.ipynb
 *.ipynb
+*.pickle
